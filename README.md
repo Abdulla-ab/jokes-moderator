@@ -2,13 +2,13 @@
 Moderate Jokes Microservice - The Jokes are Moderated from here
 
 # Used technologies
-NodeJs
-ExpressJs
+NodeJs,
+ExpressJs,
 MongoDB/Mongoose
 
 # Used Tools
-ExpressJs Documentation
-Git
+ExpressJs Documentation,
+Git,
 ChatGPT
 
 # To install packages
